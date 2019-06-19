@@ -1,0 +1,3 @@
+rootProject.name = 'islaam'
+
+include ':app'
